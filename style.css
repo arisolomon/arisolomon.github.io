@@ -8,6 +8,7 @@ body, html {
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
+  padding-top:10px;
 }
 *{
 	box-sizing: border-box;
@@ -89,6 +90,7 @@ h1 {
     padding-bottom:10px;
 }
 
+
 a:link {
     color: #dbd6c1;
     text-decoration: none;
@@ -110,5 +112,17 @@ a:active {
 }
 
 
+.edu img {
+    width:15%;
 
+}
+
+.experience img {
+    width:15%
+}
+
+.interests img {
+    width:15%
+
+}
 
